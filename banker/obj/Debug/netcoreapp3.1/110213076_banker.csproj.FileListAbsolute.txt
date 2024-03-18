@@ -1,0 +1,13 @@
+C:\Users\alice\Desktop\Junior\OS\banker\bin\Debug\netcoreapp3.1\110213076_banker.exe
+C:\Users\alice\Desktop\Junior\OS\banker\bin\Debug\netcoreapp3.1\110213076_banker.deps.json
+C:\Users\alice\Desktop\Junior\OS\banker\bin\Debug\netcoreapp3.1\110213076_banker.runtimeconfig.json
+C:\Users\alice\Desktop\Junior\OS\banker\bin\Debug\netcoreapp3.1\110213076_banker.runtimeconfig.dev.json
+C:\Users\alice\Desktop\Junior\OS\banker\bin\Debug\netcoreapp3.1\110213076_banker.dll
+C:\Users\alice\Desktop\Junior\OS\banker\bin\Debug\netcoreapp3.1\110213076_banker.pdb
+C:\Users\alice\Desktop\Junior\OS\banker\obj\Debug\netcoreapp3.1\110213076_banker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Junior\OS\banker\obj\Debug\netcoreapp3.1\110213076_banker.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Junior\OS\banker\obj\Debug\netcoreapp3.1\110213076_banker.AssemblyInfo.cs
+C:\Users\alice\Desktop\Junior\OS\banker\obj\Debug\netcoreapp3.1\110213076_banker.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Junior\OS\banker\obj\Debug\netcoreapp3.1\110213076_banker.dll
+C:\Users\alice\Desktop\Junior\OS\banker\obj\Debug\netcoreapp3.1\110213076_banker.pdb
+C:\Users\alice\Desktop\Junior\OS\banker\obj\Debug\netcoreapp3.1\110213076_banker.genruntimeconfig.cache
